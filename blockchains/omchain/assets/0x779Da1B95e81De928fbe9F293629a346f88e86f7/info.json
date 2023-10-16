@@ -1,13 +1,13 @@
 {
-  "name": "Test Omelette Token",
+  "name": "Omelette Token",
   "type": "OMCHAIN",
-  "symbol": "TOMLT",
+  "symbol": "OMLT",
   "decimals": 18,
   "website": "https://omeletteswap.finance/",
   "description": "#1 Decentralized Exchange for trading and liquidity provision on Omchain",
-  "explorer": "https://explorer.omchain.io/address/0xF7E326d3fBD9511f34Fac2E1865C989efE7d777c",
+  "explorer": "https://explorer.omchain.io/address/0x779Da1B95e81De928fbe9F293629a346f88e86f7",
   "status": "active",
-  "id": "0xF7E326d3fBD9511f34Fac2E1865C989efE7d777c",
+  "id": "0x779Da1B95e81De928fbe9F293629a346f88e86f7",
   "links": [
     {
       "name": "twitter",
